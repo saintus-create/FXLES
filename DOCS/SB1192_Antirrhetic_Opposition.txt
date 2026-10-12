@@ -1,0 +1,77 @@
+
+
+Opposition to SB 1192 (Rubio), the Reclaim Act
+
+Senate Judiciary Committee, April 21, 2026
+
+I. THE CONCESSION
+
+The bill names a real thing. Litigation abuse exists; the survivors it describes exist; the pattern the committee's analysis recites — filings made to force contact and delay resolution, discovery used to finance a continuation of the relationship through the clerk's window — is documented. This opposition is written by someone who has been its target, and the concession is made in full. It is not the ground of opposition. The ground is that the bill does not remedy the thing it names. It hands the thing it names a court seal.
+
+To State it Plainly From the Bill Itself:
+
+"A growing body of academic evidence discusses the tragic phenomenon of “abuse by
+
+litigation,” a form of coercive control through which abusers perpetuate the abuse of
+
+their victims through the judicial system. Stakeholders report that this practice is
+
+rampant in proceedings to obtain a protective order under the Domestic Violence
+
+Prevention Act (DVPA): respondents engage in needless, extensive discovery as a way
+
+to prolong the process, delay the issuance of an order, and force contact with and wear
+
+down the victim."
+
+[Citation]
+
+The Bill also states at paragrpah X: 
+
+"Authorizes a court to issue an ex parte temporary restraining order (TRO) under the
+
+DVPA without a noticed hearing. (Fam. Code, §§ 6320-6327.)
+
+4) Authorizes a court to issue DVPO under the DVPA after a noticed hearing at which
+
+the alleged abuser may appear. (Fam. Code, §§ 6340-6347.)"
+
+Here, the key term is "alleged abuser" so at this point we do not know if in fact they are the actual abuser, in which according to [citation] "to obtain a protective order, [respondents] which is conflated with "abuser" despite that the bill claims they are "alleged abuser" at this point, "engage in needless extensive discovery..."
+
+So the Bill effectively becomes circular by, first statign that litigation abuse occurs, then paves the way for it to occur at [citation]
+
+
+
+II. THE SUBSTITUTION
+
+Section 391.91(h) defines a victim of domestic violence. Three of its four prongs require a court to have found something. The fourth does not. A person protected by a restraining or protective order issued after a noticed hearing is a victim under the bill — no finding of abuse, no adjudicated fact, only the order's existence. (391.91(h)(3), (4).)
+
+The order the bill relies on is issued by the Domestic Violence Prevention Act on the form alone. Family Code section 6300(a): the order may issue "based solely on the affidavit or testimony of the person requesting the restraining order." The noticed hearing is the one step at which the declarations are tested. In the case at the center of this opposition, that hearing has not been held in twenty-three months, while the order runs and the counts accumulate on it.
+
+The bill converts paper into status, status into findings, findings into exclusion. Under section 391.94(b), the court shall grant the prefiling order on a preponderance of the evidence that the other party is a perpetrator and has pursued litigation or discovery that is frivolous or abusive. The committee will say the perpetrator finding is a safeguard. It is a preponderance finding that the restrained party disturbed the protected party's calm — the definition that has expanded with each decade of transplantation, measured against the same untested declarations, before the evaluators the Legislature itself finds to misunderstand and overlook the pattern. Family Code section 6309(a)(1)(D).
+
+III. THE EXCLUSION
+
+What the prefiling order does is older than the vexatious litigant statute, and the scholarship has already described it. Peter Goodrich, writing on the antirrhetic tradition of the common law, describes a rhetoric that identifies error, corrects it according to established patterns of belief, and punishes it by excluding the errant speaker from the discursive arena — leaving him, in the old phrase, beyond the seas, readmitted only upon discursive repentance. Section 391.94 is that tradition with a case number. The enjoined party may not file litigation or conduct discovery. The filing and the discovery are stayed automatically upon the victim's motion. (391.94(a)(2).) The request to speak may be denied ex parte, without a hearing. (391.94(d)(5).) Filing without permission brings mandatory sanctions, fees, and contempt. (391.96.) Readmission requires a noticed motion, written findings of merit, and monitoring of every filing thereafter. The gatekeeper of the repentance is the evaluator the Legislature has already told us misunderstands the pattern.
+
+IV. THE CASE
+
+Consider the case this opposition is written from. A man spent months receiving calls and emails carrying legal threats — the conduct the petition's own language calls frivolous. Each report he made to law enforcement initiated his arrest. He spent five days in custody without medication the arresting officers had been told he needed. No fact in the file has been found by anyone: the order issued on the form, the arrest enforced the order, and three counts allege violations of it.
+
+Under the bill, the person who filed the form holds the paper, and the paper is the qualification. The day any order issues after a noticed hearing — whatever that hearing tested, and whatever it did not — the filer is a victim under section 391.91(h)(3), and the survivor is the party against whom the prefiling order is sought. The discovery that would test the form — the deposition on the six sentences, the requests for admission, the December report that could not be located when the survivor asked for it, the bodycam of an arrest made without the dominant-aggressor analysis Penal Code section 13701(b) requires — is discovery against a victim: stayed on motion, deniable ex parte, sanctionable. The bill would not stop litigation abuse in that case. It would complete it, with the survivor paying the fees.
+
+V. THE NUMBERS
+
+The author's own comment supplies the count: over 61 million women and 53 million men have experienced psychological aggression by an intimate partner. The bill protects the class its definitions reach, and its definitions reach whoever holds the order. The assignment step — who is read as the survivor at intake — decides which half of the hundred and fourteen million the bill protects and which half it enjoins. The Legislature knows how to write a conduct-based test; it wrote one in Code of Civil Procedure section 391(b): five losses in seven years, repeated relitigation, repeated unmeritorious filings — a record a court can count. Title 3b requires one motion and a preponderance, tethered to the paper.
+
+VI. THE RETREAT
+
+The bill as introduced would have abrogated Slaieh v. Superior Court (2022) 77 Cal.App.5th 266, extending the criminal victim's discovery refusal into every civil case, against that court's holding that the right to depose an adverse party is fundamental to our legal system and long-standing. The author has agreed to remove that provision, and the provision requiring the safety of the victim to be considered before every court decision, after the committee flagged that civil litigants' rights would be curtailed. The retreat is evidence. The instinct that produced the withdrawn provisions produced what remains: the ex parte denial, the automatic stay, the mandatory sanctions.
+
+VII. THE FIX
+
+One sentence repairs the bill. Strike section 391.91(h)(3) and (4), and key victim status to adjudicated findings of abuse — the first two prongs — as the author has already agreed to do for the counselor's affidavit. A statute that protects victims by the facts found against their abusers deserves passage. A statute that protects whoever holds the paper will be remembered as the instrument that taught the abusers a new form. The committee has received no timely opposition. This is one.
+
+SOURCES
+
+SB 1192 (Rubio), Committee Analysis of the Senate Judiciary Committee, April 6, 2026, including proposed Code of Civil Procedure sections 391.91 through 391.96; Family Code sections 6203, 6300, 6303, 6309; Code of Civil Procedure sections 128.5 and 391; Penal Code section 13701, subdivision (b); Slaieh v. Superior Court (2022) 77 Cal.App.5th 266; case law and the transplanted-definition history as documented in Exception as Law and the Full Chronology in this record; Peter Goodrich, "The Continuance of the Antirrhetic," 4 Cardozo Studies in Law and Literature 207 (1992); Richard H. Weisberg, "Response to Goodrich on the Antirrhetic," 4 Cardozo Studies in Law and Literature 237 (1992).

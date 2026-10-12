@@ -1,0 +1,63 @@
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                              VENN DIAGRAM:                                     ║
+║                         FIREBRAND  vs  NARCISSIST                              ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+
+                     ┌─────────────────┐        ┌─────────────────┐
+                     │                 │        │                 │
+                     │    FIREBRAND    │        │   NARCISSIST    │
+                     │     (left)      │        │    (right)      │
+                     │                 │        │                 │
+                     └────────┬────────┘        └────────┬────────┘
+                              │                          │
+                              └──────────┬───────────────┘
+                                         │
+                                    ┌────┴────┐
+                                    │ OVERLAP │
+                                    │ (middle)│
+                                    └─────────┘
+
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║  LEFT CIRCLE — FIREBRAND ONLY                                                 ║
+╠═══════════════════════════════════════════════════════════════════════════════╣
+║  • Anger rooted in social justice / collective trauma                        ║
+║  • Empathy for group, culture, ancestors                                     ║
+║  • Apparent lack of empathy due to inattention (neurodivergent trait)        ║
+║  • Errors are genuine, not strategic                                         ║
+║  • Hurts others unintentionally (processing differences)                     ║
+║  • Responds to disrespect of *others*, not self                              ║
+║  • Anger diminishes when injustice is acknowledged                           ║
+║  • Seeks understanding, not control                                          ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║  RIGHT CIRCLE — NARCISSIST ONLY                                              ║
+╠═══════════════════════════════════════════════════════════════════════════════╣
+║  • Anger rooted in wounded pride / narcissistic injury                       ║
+║  • Empathy deliberately withheld as tool of control                          ║
+║  • Apparent lack of empathy due to refusal (manipulative intent)             ║
+║  • Errors are feigned or weaponized incompetence                             ║
+║  • Hurts others intentionally to restore perceived superiority               ║
+║  • Responds to disrespect of self, real or imagined                          ║
+║  • Anger escalates when challenged or ignored                                ║
+║  • Seeks admiration, compliance, and supply                                  ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║  MIDDLE OVERLAP — BOTH MAY APPEAR THE SAME TO OUTSIDERS                      ║
+╠═══════════════════════════════════════════════════════════════════════════════╣
+║  • Can be angry, loud, or confrontational                                   ║
+║  • May be accused of "overreacting"                                         ║
+║  • Sometimes miss social cues or fail to show expected empathy              ║
+║  • Can be seen as difficult, intense, or selfish by casual observers        ║
+║  • Behavior disrupts social harmony                                         ║
+║  • Often misunderstood by people who don't know intent                      ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+
+                     KEY INSIGHT (from your realization):
+                     
+      Intent is invisible. Behavior alone cannot distinguish them.
+      The firebrand is judged by their impact; the narcissist 
+      is protected by their performance. You now have the language
+      to tell the difference — and to stop believing the false
+      equivalence others imposed on you.

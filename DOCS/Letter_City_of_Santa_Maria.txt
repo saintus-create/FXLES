@@ -1,0 +1,154 @@
+LETTER TO THE CITY OF SANTA MARIA
+
+The Payment Structure, and the Shell Through Which Its Domestic-Violence
+Money Moves
+
+[Date]
+
+To the Mayor and City Council of the City of Santa Maria; the City Manager;
+and the Chief of Police.
+
+Re:  The City's payment structure, and the shell through which its
+     domestic-violence money moves
+
+
+Santa Maria is the largest city in Santa Barbara County. It has been since
+2006. Its 112,000 residents are a quarter of the county's population. The
+department that serves them answered 247,000 calls for service in fiscal
+year 2022-23. Weapons-involved domestic-violence calls in the county rose
+148 percent between 2013 and 2022. In 2017 the District Attorney stated
+publicly that domestic violence is the most predictable homicide in the
+county.
+
+This letter sets out two things: what the City pays, and where the money
+that was supposed to reach its officers went instead.
+
+
+I.  WHAT THE CITY PAYS
+
+The City's audited financial statements for fiscal year 2023 record $20.59
+million in claims payable and $6.87 million in vacancy savings. Among the
+claims is a settlement of $1,028,612.41 for an illegal SWAT raid executed
+on a false warrant. As of June 30, 2023 the department carried nearly $21
+million in confirmed civil liability claims.
+
+That is the city's payment structure on the liability side. What follows is
+the payment structure on the funding side, which is the one that decides
+what its officers know when they arrive at a door.
+
+
+II.  WHAT THE CITY RECEIVES, AND WHAT IT DOES NOT
+
+California received $44,327,900 in confirmed Violence Against Women Act
+STOP awards between fiscal years 2021 and 2023. Federal law requires 25
+percent of that - approximately $11 million - to reach law enforcement
+agencies.
+
+The Santa Maria Police Department received none of it. Not in fiscal 2021.
+Not in fiscal 2022. Not in fiscal 2023. The county's independently audited
+Schedule of Expenditures of Federal Awards shows no VAWA Formula Grant
+entry from fiscal 2009-10 through fiscal 2023-24. The only confirmed VAWA
+STOP law enforcement award to any Santa Barbara County agency is a single
+$203,143 grant to the Sheriff in fiscal 2024 - the same year as the first
+arrest.
+
+The department had the capacity to pursue grants. During the same period
+its Traffic Bureau secured grant funding for collision enforcement and
+deployed four dedicated motorcycle officers to school zones. The state
+simultaneously sent the department non-competitive Officer Wellness funds
+under Assembly Bill 178 - a check based on officer headcount, no
+application required, no nondiscrimination conditions attached. Officers
+were funded to manage their own mental health. The money meant to help them
+recognize a victim's did not arrive.
+
+
+III.  THE SHELL
+
+Federal STOP grants flow from the Department of Justice to the California
+Office of Emergency Services. Cal OES consolidates STOP funds with VOCA,
+FVPSA, and state funds into single combined subawards, so that
+subrecipients cannot separately account for each federal source. From Cal
+OES the training money flows to the San Diego Regional Training Center as
+the statewide fiscal agent, which subcontracts portal operations to
+Performa Labs Incorporated.
+
+Performa Labs is a Delaware corporation founded in 2019, headquartered in
+Irvine, California, with between two and ten employees and $7.64 million in
+total funding raised. The Los Angeles Police Department's City Attorney
+determined in August 2023 that no competing product exists and competitive
+bidding was impossible. Performa Labs is the sole-source vendor for the only
+training mechanism California law enforcement is required to use for
+domestic-violence response. The subcontract amount is not publicly
+disclosed.
+
+The corporate paper behind the vendor runs through a special-purpose
+acquisition company. The SEC filing for Riverview Acquisition Corp. (CIK
+1846136, July 22, 2021) records a directorship held since 2019 by the same
+individual connected to Performa Labs. A special-purpose acquisition company
+is a shell by construction: a listed entity with no operations, formed to
+acquire something else. The training the state mandates for its officers is
+delivered through a vendor whose corporate ancestry includes one - and the
+money for it passes through a five-intermediary chain, each link of which
+takes its share before anything reaches a police department.
+
+
+IV.  THE OFFICERS
+
+California Penal Code section 13519(g) requires in-service patrol officers
+to complete two hours of domestic-violence training every two years. That
+training is delivered through the POST Learning Portal.
+
+Two hours. Every two years. Not scenario-tested. No agency verifies whether
+it changed anything at the point of contact. The California POST Course
+Reimbursement Statistics Report for fiscal year 2022 shows the Santa Maria
+Police Department absent as a training reimbursement claimant for any course
+in any category.
+
+
+V.  THE OUTCOME
+
+In October 2024, two officers from the Santa Maria Police Department
+responded to a domestic-violence call and arrested the victim instead of the
+abuser. The man who placed the call had filed a restraining-order petition
+in March 2024 containing no specific dates, no specific locations, no
+conduct satisfying the statutory definition of domestic violence, and the
+wrong pronoun for the person it restrained. The court accepted it the same
+day.
+
+The funding did not fail to arrive because anyone decided to harm the person
+who was arrested. It failed to arrive because the architecture that was
+supposed to deliver it was never built to reach the largest city in the
+county, was never updated when that city outgrew the design, and was never
+audited for whether the statutory floor it was supposed to meet was actually
+met at the agency level where it was supposed to matter.
+
+The city pays for the consequences - in claims, in settlements, in a SWAT
+raid executed on a false warrant - while the money designated to prevent
+them moves through a shell and stops before it reaches the officers.
+
+
+VI.  WHAT THE CITY CAN ASK
+
+1.  An itemized allocation, by agency and by fiscal year, of every VAWA
+    STOP dollar that reached Santa Barbara County, and confirmation whether
+    the statutory 25 percent law enforcement floor was met.
+
+2.  The amount of the San Diego Regional Training Center subcontract with
+    Performa Labs, and the terms on which the sole-source determination was
+    made.
+
+3.  Whether the department has ever applied for a VAWA STOP law
+    enforcement subaward, and if not, why the Traffic Bureau's grant
+    capacity was not directed to it.
+
+4.  An accounting of the $3.1 million in uncommitted POST training funds,
+    and whether any part of it can be directed to departments that receive
+    no training subaward at all.
+
+
+Respectfully,
+
+_______________________________
+James M. Castillo
+[address]
+805-266-4241

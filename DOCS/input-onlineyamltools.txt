@@ -1,0 +1,105 @@
+﻿openapi: 3.0.0
+info:
+  title: County of Santa Barbara AI Search API
+  version: 1.0.0
+  description: AI-powered search API for countyofsb.org content
+servers:
+  - url: https://api.cloudflare.com/client/v4/accounts/{account_id}/ai-search/instances/01
+    variables:
+      account_id:
+        default: your_account_id
+paths:
+  /search:
+    post:
+      summary: Search county content
+      description: Returns relevant content chunks from indexed countyofsb.org pages
+      security:
+        - bearerAuth: []
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                messages:
+                  type: array
+                  items:
+                    type: object
+                    properties:
+                      role:
+                        type: string
+                        example: user
+                      content:
+                        type: string
+                        example: How do I contact the county?
+      responses:
+        '200':
+          description: Search results
+  /chat/completions:
+    post:
+      summary: Chat with county content
+      description: Retrieves content and generates an AI response in one call
+      security:
+        - bearerAuth: []
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                messages:
+                  type: array
+                  items:
+                    type: object
+                    properties:
+                      role:
+                        type: string
+                        example: system
+                      content:
+                        type: string
+                        example: You are a helpful county services assistant.
+              example:
+                messages:
+                  - role: system
+                    content: You are a helpful county services assistant.
+                  - role: user
+                    content: What services are available?
+      responses:
+        '200':
+          description: AI-generated response with sources
+  /stats:
+    get:
+      summary: Get indexing status
+      description: Check how many pages and chunks have been indexed
+      security:
+        - bearerAuth: []
+      responses:
+        '200':
+          description: Indexing statistics
+  /items:
+    post:
+      summary: Upload content
+      description: Upload files (PDF, text) to be indexed
+      security:
+        - bearerAuth: []
+      requestBody:
+        required: true
+        content:
+          multipart/form-data:
+            schema:
+              type: object
+              properties:
+                file:
+                  type: string
+                  format: binary
+      responses:
+        '200':
+          description: File uploaded and indexing started
+components:
+  securitySchemes:
+    bearerAuth:
+      type: http
+      scheme: bearer
+      bearerFormat: JWT
